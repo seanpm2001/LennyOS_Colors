@@ -1,0 +1,1 @@
+🎨️👓️💾️ Color support for LennyOS.
